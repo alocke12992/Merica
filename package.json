@@ -11,8 +11,8 @@
     "states",
     "abbreviations",
     "state",
-    "names"
+    "state names"
   ],
-  "author": "Andrew <alocke12992@gmail.com>",
+  "author": "Andrew Locke <alocke12992@gmail.com>",
   "license": "MIT"
 }
