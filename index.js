@@ -431,6 +431,8 @@ const getFullName = (abbreviation = '') => {
     console.error('Abbreviation is required');
     return;
   }
+
+  abbreviation = abbreviation.toUpperCase();
   if (!abbreviations.includes(abbreviation)) {
     console.error(`Abbreviation '${abbreviation}' does not exist, please check your spelling and try again`)
     return;

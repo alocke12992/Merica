@@ -2,6 +2,7 @@
   "name": "merica",
   "version": "1.0.0",
   "description": "The beautiful united states of america",
+  "github": "https://github.com/alocke12992/Merica",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
