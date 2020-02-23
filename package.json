@@ -1,0 +1,18 @@
+{
+  "name": "merica",
+  "version": "1.0.0",
+  "description": "The beautiful united states of america",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merica",
+    "states",
+    "abbreviations",
+    "state",
+    "names"
+  ],
+  "author": "Andrew <alocke12992@gmail.com>",
+  "license": "MIT"
+}
